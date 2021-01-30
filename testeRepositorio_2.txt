@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Teste 202
 teste 203
 teste 204
@@ -6,3 +7,8 @@ teste 205
 =======
 Texto 2 novo
 >>>>>>> a4d7ff47692894af660ae00f6d264cfecb7354d9
+=======
+Teste 202
+teste 203
+teste 204
+>>>>>>> parent of a4d7ff4 (Alteracao texto novo (#1))
